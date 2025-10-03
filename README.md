@@ -1,6 +1,6 @@
-# login_page_sendiri
+# login_page_mobileAPP
 
-A new Flutter project.
+A new Flutter project with SQFLite as database.
 
 ## Getting Started
 
